@@ -3,6 +3,18 @@ body {
     background-size: cover;
 }
 
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p{
+    font-size: 30px;
+}
+
 a {
     text-decoration: solid;
     color: red;

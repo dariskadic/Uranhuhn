@@ -1,0 +1,26 @@
+body {
+    background-image: url("https://t4.ftcdn.net/jpg/00/20/65/09/360_F_20650968_0WITh3unL5edEiXmZlXtWk1aigRZ11Cs.jpg");
+    background-repeat: no-repeat;
+    background-size: 85%;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p{
+    font-size: 30px;
+}
+
+a {
+    text-decoration: solid;
+    color: red;
+}
+
+ul {
+    font-size: 30px;
+}
