@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://live.staticflickr.com/60/229766355_4ecd88e7de_b.jpg");
+    background-size: cover;
+}
+
+a {
+    text-decoration: solid;
+    color: red;
+}
